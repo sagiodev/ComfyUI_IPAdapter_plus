@@ -1,3 +1,10 @@
+Added Negative Image prompt support.
+
+Workflow JSON examples:
+- [IP adapter with positive and negative image prompt](https://github.com/sagiodev/ComfyUI_IPAdapter_plus_negative/blob/main/examples/ip-adapter%20negative%20prompt.json)
+- [IP adapter face id with positive and negative image prompt](https://github.com/sagiodev/ComfyUI_IPAdapter_plus_negative/blob/main/examples/ip-adapter%20negative%20prompt%20face%20id.json)
+
+
 # ComfyUI IPAdapter plus
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) reference implementation for [IPAdapter](https://github.com/tencent-ailab/IP-Adapter/) models.
 
