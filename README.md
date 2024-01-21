@@ -5,6 +5,10 @@ Workflow JSON examples:
 - [IP adapter face id with positive and negative image prompt](https://github.com/sagiodev/ComfyUI_IPAdapter_plus_negative/blob/main/examples/ip-adapter%20negative%20prompt%20face%20id.json)
 
 
+
+![image](https://github.com/sagiodev/ComfyUI_IPAdapter_plus_negative/assets/3319909/f98931f1-38d1-4cd5-9528-886f864e5183)
+![image](https://github.com/sagiodev/ComfyUI_IPAdapter_plus_negative/assets/3319909/8ddae48c-4747-4722-b0cd-45af6aae5198)
+
 # ComfyUI IPAdapter plus
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI) reference implementation for [IPAdapter](https://github.com/tencent-ailab/IP-Adapter/) models.
 
